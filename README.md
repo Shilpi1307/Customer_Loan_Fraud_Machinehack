@@ -9,8 +9,8 @@ We have two Dataset Train and test<br>
 
 **#Technologies and libraries used**
 The contents of this repository were created and implemented in Colab notebooks & jupyter notebook. The following libraries were majorily used:
-<li><ul>Pandas</ul>
-<ul>numpy</ul>
-<ul>Statistics</ul>
-<ul>scikit-learn</ul></li>
+1.Pandas
+2.numpy
+3.Statistics
+4.scikit-learn
 
